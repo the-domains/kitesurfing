@@ -4,21 +4,21 @@
         <description><![CDATA[Kitesurfing.no]]></description>
         <link>https://thegrid.ai/kitesurfing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 22:36:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 22:39:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kitesurfing/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Summer courses at Jæren</p>]]></description>
+            <link>https://thegrid.ai/kitesurfing/summer-courses-at-jaeren/index.html</link>
+            <guid isPermaLink="false">5c71dd21-64aa-45ee-8916-74f61668e8ba</guid>
+            <pubDate>Fri, 29 Apr 2016 22:38:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0b05da5-4e8d-4f4f-a70c-41454ae6b1ef.jpg">]]></description>
             <link>https://thegrid.ai/kitesurfing/f3d831f8-d668-4dd8-91ce-23879c45b245/index.html</link>
             <guid isPermaLink="false">f3d831f8-d668-4dd8-91ce-23879c45b245</guid>
             <pubDate>Fri, 29 Apr 2016 22:35:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Summer courses at Jæren</p>]]></description>
-            <link>https://thegrid.ai/kitesurfing/summer-courses-at-jaeren/index.html</link>
-            <guid isPermaLink="false">5c71dd21-64aa-45ee-8916-74f61668e8ba</guid>
-            <pubDate>Fri, 29 Apr 2016 22:30:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
