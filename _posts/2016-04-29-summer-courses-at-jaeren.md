@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Summer courses at Jæren
-datePublished: '2016-04-29T22:30:07.074Z'
-dateModified: '2016-04-29T22:29:44.692Z'
+datePublished: '2016-04-29T22:38:54.640Z'
+dateModified: '2016-04-29T22:38:20.667Z'
 title: ''
 author: []
 authors: []
@@ -15,9 +15,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-04-29-summer-courses-at-jaeren.md
 published: true
+starred: false
 url: summer-courses-at-jaeren/index.html
 _type: Article
 
